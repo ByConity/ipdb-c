@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 #include <memory.h>
-#include <json/json.h>
+#include <json.h>
 #include <arpa/inet.h>
 #include "ipdb.h"
 
