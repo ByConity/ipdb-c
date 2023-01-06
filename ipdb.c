@@ -2,6 +2,11 @@
 // Created by root on 11/14/18.
 //
 
+/*
+ * This file may have been modified by ByteDance Ltd. (“ Bytedance's Modifications”).
+ * All Bytedance's Modifications are Copyright (2022) ByteDance Ltd..
+ */
+
 #include <stdio.h>
 #include <memory.h>
 #include <json.h>
